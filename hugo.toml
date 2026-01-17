@@ -2,7 +2,7 @@ baseURL = 'https://example.org/'
 languageCode = 'ja-jp'
 title = '動物社会生態学・霊長類学研究室'
 theme = "hugo-simple"
-copyright = "© 2026 Y. Takenoshita, Laboratory of Animal Socio-Ecology and Primatology, Okayama University of Science"
+copyright = "© 2026 Y. Takenoshita, Laboratory of Animal Socio-Ecology and Primatology, Okayama University of Science. All rights reserved."
 
 [markup]
   [markup.goldmark]
@@ -18,7 +18,26 @@ copyright = "© 2026 Y. Takenoshita, Laboratory of Animal Socio-Ecology and Prim
     weight     = 1
 
   [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "/about/"
+    weight     = 2
+
+  [[menu.main]]
+    identifier = "courses"
+    name       = "Courses"
+    url        = "/courses/"
+    weight     = 3
+
+  [[menu.main]]
     identifier = "blog"
     name       = "Blog"
-    url        = "/posts/"
-    weight     = 2
+    url        = "/blog/"
+    weight     = 4
+
+  [[menu.main]]  
+    name = 'Tags'
+    identifier = 'tags'
+    url = '/tags/'
+    weight = 300
+
