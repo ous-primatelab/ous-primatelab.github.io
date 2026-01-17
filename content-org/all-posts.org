@@ -107,7 +107,8 @@ CLOSED: [2026-01-17 Sat 13:08]
 :EXPORT_HUGO_SECTION: blog
 :END:
 
-** TODO サイトリニューアル                                         :info:
+** DONE サイトリニューアル                                         :info:
+CLOSED: [2026-01-17 Sat 15:33]
 :PROPERTIES:
 :EXPORT_FILE_NAME: site-renewal
 :END:
