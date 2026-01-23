@@ -1,7 +1,7 @@
 +++
 title = "サイトリニューアル"
 date = 2026-01-17T15:33:00+09:00
-tags = ["info"]
+tags = ["misc"]
 draft = false
 +++
 

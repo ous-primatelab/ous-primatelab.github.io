@@ -107,10 +107,29 @@ CLOSED: [2026-01-17 Sat 13:08]
 :EXPORT_HUGO_SECTION: blog
 :END:
 
-** DONE サイトリニューアル                                         :info:
+** DONE サイトリニューアル                                         :misc:
 CLOSED: [2026-01-17 Sat 15:33]
 :PROPERTIES:
 :EXPORT_FILE_NAME: site-renewal
 :END:
 
 更新しやすいよう、[[https://gohugo.io][hugo]] で静的サイトを構築しなおしました。
+
+
+** DONE 卒論の題目が確定                                           :news:
+CLOSED: [2026-01-23 Fri 11:26]
+:PROPERTIES:
+:EXPORT_FILE_NAME: thesis2025
+:END:
+
+竹ノ下ゼミとしての一期生の卒論題目が出揃いました。
+教員としてはサルの研究がないのが少し残念ですが、みんな自分の好きな動物を一生懸命研究しました。
+発表会は2月11日です。
+
+
+- 庵下 :: 姫路市立動物園で混合飼育されているダチョウ (/Struthio camelus/) とホロホロチョウ (/Numida meleagris/) の関係性
+- 清水 :: ヒトの感情表出に対するイエイヌ (/Canis lupus familiaris/) の行動反応
+- 単 :: 岡山県内の中小河川に生息する淡水魚類の生息地利用と環境要因の関係
+- 藤崎 :: よこはま動物園ズーラシアの混合飼育において捕食者の存在がキリン (/Giraffa camelopardalis/) と他の草食動物の種間関係に与える影響
+- 村上 :: アザラシ幼稚園におけるアザラシ (Phocidae) の睡眠行動と一日の活動内容
+- 森 :: ブチハイエナ (/Crocuta crocuta/) の 1 日の行動パターンと常同行動
