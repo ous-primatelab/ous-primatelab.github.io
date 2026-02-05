@@ -5,3 +5,5 @@ This repository contains the source for the official website of the Laboratory o
 Unless otherwise noted, all code in this repository is released under the MIT License.
 
 Unless otherwise stated, the content of the website (including text, images, and other media) is copyrighted by the Laboratory of Animal Socio-Ecology and Primatology, Okayama University of Science. All rights reserved.
+
+.
