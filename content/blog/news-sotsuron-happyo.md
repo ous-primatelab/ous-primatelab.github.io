@@ -1,7 +1,7 @@
 +++
 title = "卒論発表会"
 date = 2026-02-12T12:44:00+09:00
-tags = ["卒論", "news"]
+tags = ["動物学科", "卒論", "news"]
 draft = false
 +++
 
