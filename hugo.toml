@@ -4,6 +4,12 @@ title = '動物社会生態学・霊長類学研究室'
 theme = "hugo-simple"
 copyright = "© 2026 Y. Takenoshita, Laboratory of Animal Socio-Ecology and Primatology, Okayama University of Science. All rights reserved."
 
+[Author]
+  name = "Y. Takenoshita"
+
+[params]
+  Author = { name = "Y. Takenoshita" }
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
