@@ -426,7 +426,7 @@ CLOSED: [2026-03-30 Mon 16:20]
 <script async src="//www.instagram.com/embed.js"></script>
 #+END_EXPORT
 
-** DONE 2026年度始動！
+** DONE 2026年度始動！                                       :news:動物学科:
 CLOSED: [2026-04-06 Mon 15:01]
 :PROPERTIES:
 :EXPORT_FILE_NAME: news-new-fy2026
