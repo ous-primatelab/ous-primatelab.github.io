@@ -836,6 +836,25 @@ _(修正 0512) 開始時刻にあやまりがありました。4,5限、15時か
   - Lovich, J., McCoy, C., and Garstka, W., 1990, The development and significance of melanism in the slider turtle: /Life history and ecology of the slider turtle/., p. 233-254. 紹介者: 浅木颯人 (4回生)
 
 
+** DONE ゼミのお知らせ (2026年度第2回)                    :ゼミ:学生むけ:
+CLOSED: [2026-05-15 Fri 14:16]
+:PROPERTIES:
+:EXPORT_FILE_NAME: seminor-announcement-202602
+:END:
+
+動物社会生態学・霊長類学ゼミのお報せです。
+
+- *日時・場所*: 2026年5月21日 15:00- 岡山理科大学D3号館3F実習室
+- *研究発表*
+  - 浅木颯人 (4回生) 「笹ヶ瀬川の淡水ガメの逃走行動について」
+  - 嶝口ひより (4回生) 「池田動物園で飼育されているジェフロイクモザルの順位推定」
+- *文献紹介*
+  - . Aota, Y. Sekiguchi, D. M. Kikuchi. (2025). The larger the cetacean, the more stationary their sleep? Thermoregulatory constraints on the sleep behaviour ofcaptive cetaceans. /Journal of Zoology/ 327(4):327-427. 紹介者: 村上茉優 (M1)
+
+
+*ゼミにはどなたでもご参加いただけます。また、発表したい、という方がいましたらご連絡ください。*
+
+
 ** DONE アフリカ学会第63回学術大会                      :学会:アフリカ:SDGs:
 CLOSED: [2026-05-11 Mon 17:28]
 :PROPERTIES:
