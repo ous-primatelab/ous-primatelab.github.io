@@ -920,6 +920,23 @@ CLOSED: [2026-05-29 Fri 15:34]
 
 6/11 (木) は研究ツール・アプリ等のガイダンスのためおやすみです。
 
+** DONE ゼミのお知らせ (2026年度第5回)                       :ゼミ:学生むけ:
+CLOSED: [2026-06-14 Sun 09:42]
+:PROPERTIES:
+:EXPORT_FILE_NAME: seminor-announcement-202605
+:END:
+
+動物社会生態学・霊長類学ゼミのお報せです。
+
+- *日時・場所*: 2026年6月18日 15:00- 岡山理科大学D3号館3F実習室
+- *研究発表*
+  - 藤崎真 (M1) 「とべ動物園での予備調査結果について」
+- *文献紹介*
+  - Watts DP (2010) Dominance, Power, and Politics in Nonhuman and Human Primates. In Deane-Drummond C, Fuentes A. (eds) /The Evolution of Human Wisdom: Mutation, Evolution and History/, Springer, pp. 109-37. 紹介者: 河野愛己 (4回生)
+
+
+*ゼミにはどなたでもご参加いただけます。また、発表したい、という方がいましたらご連絡ください。*
+
 ** DONE 大学院入試の案内                           :大学院:入試:霊長類学:
 CLOSED: [2026-05-29 Fri 15:44]
 :PROPERTIES:
