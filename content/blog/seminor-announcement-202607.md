@@ -11,7 +11,7 @@ draft = false
 -   **研究発表**
     -   今回は特論のためおやすみです
 -   **文献紹介**
-    -   天白牧夫, 大澤啓志, 勝野武彦 (2009). 三浦半島における淡水棲カメ類の種組成と生息環境の関係, _ランドスケープ研究_, 72(5): 547-552. 紹介者: 任梓鍇 (4回生)
+    -   Davis, Karen M et al (2023) The development of object play in Wolf puppies (_Canis lupus_). _International Journal of Play_ 12(**1**):20-39. 紹介者: 山口春香 (4回生)
 -   **特論 (竹ノ下)**
     -   動物の行動解析のための統計学入門
 
