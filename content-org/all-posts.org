@@ -967,9 +967,27 @@ CLOSED: [2026-06-29 Mon 10:58]
   - 今回は特論のためおやすみです
 - *文献紹介*
   - Davis, Karen M et al (2023) The development of object play in Wolf puppies (/Canis lupus/). /International Journal of Play/ 12(*1*):20-39. 紹介者: 山口春香 (4回生)
-- *特論 (竹ノ下)*
-  - 動物の行動解析のための統計学入門
+- *特論* 
+  -  「動物の行動解析のための統計学入門」(竹ノ下)
 
+
+*ゼミにはどなたでもご参加いただけます。また、発表したい、という方がいましたらご連絡ください。*
+** DONE ゼミのお知らせ (2026年度第8回)                    :ゼミ:学生むけ:
+CLOSED: [2026-07-13 Mon 15:51]
+:PROPERTIES:
+:EXPORT_FILE_NAME: seminor-announcement-202608
+:END:
+
+動物社会生態学・霊長類学ゼミのお報せです。
+
+- *日時・場所*: 2026年7月17日 15:00- 岡山理科大学D3号館3F実習室
+- *研究発表*
+  - 任梓鍇 (4回生)「旭川および百間川における淡水カメ類の日光浴場所の利用と環境要因の関係」
+  - 村上茉優 (M1)「海遊館の混合飼育と同種個体のみによるアザラシの行動」
+- *文献紹介*
+  - Bollnow MM /et al/. (2025) A Review of Approaches for Addressing Oral Stereotypic Behavior in Zoo-Housed Giraffes. /Zoo Biology/, 44(*6*):535–543. https://doi.org/10.1002/zoo.70024. 紹介者: 藤崎真 (M1)
+- *ミニ特論* 
+  - 「仮説と予測のちがいについて」(竹ノ下)
 
 *ゼミにはどなたでもご参加いただけます。また、発表したい、という方がいましたらご連絡ください。*
 
