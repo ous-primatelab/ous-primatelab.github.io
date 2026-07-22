@@ -12,7 +12,7 @@ draft = false
     -   今回は特論のためおやすみです
 -   **文献紹介**
     -   Davis, Karen M et al (2023) The development of object play in Wolf puppies (_Canis lupus_). _International Journal of Play_ 12(**1**):20-39. 紹介者: 山口春香 (4回生)
--   **特論 (竹ノ下)**
-    -   動物の行動解析のための統計学入門
+-   **特論**
+    -   「動物の行動解析のための統計学入門」(竹ノ下)
 
 **ゼミにはどなたでもご参加いただけます。また、発表したい、という方がいましたらご連絡ください。**
